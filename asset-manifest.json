@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yt_deploy/static/css/main.d2b0a9fa.chunk.css",
+    "main.js": "/yt_deploy/static/js/main.e6a5e668.chunk.js",
+    "main.js.map": "/yt_deploy/static/js/main.e6a5e668.chunk.js.map",
+    "runtime-main.js": "/yt_deploy/static/js/runtime-main.5a039502.js",
+    "runtime-main.js.map": "/yt_deploy/static/js/runtime-main.5a039502.js.map",
+    "static/js/2.038d538c.chunk.js": "/yt_deploy/static/js/2.038d538c.chunk.js",
+    "static/js/2.038d538c.chunk.js.map": "/yt_deploy/static/js/2.038d538c.chunk.js.map",
+    "index.html": "/yt_deploy/index.html",
+    "precache-manifest.3e11f89f1622554a1701c38b47fe6454.js": "/yt_deploy/precache-manifest.3e11f89f1622554a1701c38b47fe6454.js",
+    "service-worker.js": "/yt_deploy/service-worker.js",
+    "static/css/main.d2b0a9fa.chunk.css.map": "/yt_deploy/static/css/main.d2b0a9fa.chunk.css.map",
+    "static/js/2.038d538c.chunk.js.LICENSE": "/yt_deploy/static/js/2.038d538c.chunk.js.LICENSE",
+    "static/media/account_box-24px.30845892.svg": "/yt_deploy/static/media/account_box-24px.30845892.svg",
+    "static/media/menu-24px.55f68494.svg": "/yt_deploy/static/media/menu-24px.55f68494.svg",
+    "static/media/notification.bf337eab.svg": "/yt_deploy/static/media/notification.bf337eab.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a039502.js",
+    "static/js/2.038d538c.chunk.js",
+    "static/css/main.d2b0a9fa.chunk.css",
+    "static/js/main.e6a5e668.chunk.js"
+  ]
+}
